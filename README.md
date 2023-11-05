@@ -33,3 +33,15 @@ choco install openvpn-connect --version 3.3.4 -y
 choco install flux --version 0.27.3 -y
 
 ```
+
+#Mac os
+```shell
+brew install --cask google-chrome && \
+brew install git && \
+brew install --cask webstorm && \
+brew install node@20 && \
+brew install docker && \
+brew install --cask microsoft-office && \
+brew install --cask tradingview
+
+```
