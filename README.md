@@ -42,6 +42,9 @@ brew install --cask webstorm && \
 brew install node@20 && \
 brew install docker && \
 brew install --cask microsoft-office && \
-brew install --cask tradingview
+brew install --cask tradingview && \
+brew install ollama && \
+brew install --cask lm-studio && \
+brew install pnpm
 
 ```
